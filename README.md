@@ -4,7 +4,7 @@ Submitted by: **Angel Coronel**
 
 CodePathPreWork is an app that shows my full name, the name of my university and my current job position. This is a simple app that also contains buttons to change the color of the background and the text as part of the CodePath application for their Career-Ready Courses for Tech Excellence.
 
-Time spent: **3** hours spent in total
+Time spent: **3.4** hours spent in total
 
 ## Required Features
 
