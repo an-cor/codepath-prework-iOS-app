@@ -46,9 +46,9 @@ Notes (Apple built-in app)
 
 App Idea:
 
-    I would like to build an app that can be used for intermittent exercise/training. It would essentially be a timer/stopwatch that would give a user different ways to configure a workout. The essential features would be having a timer that counts down a set time, have a “cool down” period, an option to set how many repetitions will be done, and, finally, creating an account in the app. All of the timing has to be set from the user. Optional features would include having different colors to an initial countdown and the “cool down” countdown, a history of previous set workouts and ability to save them, and being able to pause, skip or restart an ongoing workout timer. 
+   I would like to build an app that can be used for intermittent exercise/training. It would essentially be a timer/stopwatch that would give a user different ways to configure a workout. The essential features would be having a timer that counts down a set time, have a “cool down” period, an option to set how many repetitions will be done, and, finally, creating an account in the app. All of the timing has to be set from the user. Optional features would include having different colors to an initial countdown and the “cool down” countdown, a history of previous set workouts and ability to save them, and being able to pause, skip or restart an ongoing workout timer. 
 
-    There are many apps that exist that already do this but lack certain capabilities that then make you buy a more capable version of the app to have full control of how to set a workout. I would like to build my own and incorporate an app I could use for exercise without having to spend money in functionalities.
+   There are many apps that exist that already do this but lack certain capabilities that then make you buy a more capable version of the app to have full control of how to set a workout. I would like to build my own and incorporate an app I could use for exercise without having to spend money in functionalities.
 
 ## Notes
 
