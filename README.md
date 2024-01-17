@@ -1,6 +1,3 @@
-# codepath-prework-iOS-app
-CodePath Prework Project - Simple iOS application with labels and buttons for codepath Intro to iOS Development Course 
-
 # Prework - CodePathPreWork iOS Application
 
 Submitted by: **Angel Coronel**
@@ -14,12 +11,12 @@ Time spent: **3** hours spent in total
 The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
-[x] Tapping the button changes the screen color to a random color
+- [x] Tapping the button changes the screen color to a random color
 
 The following **optional** functionality is completed:
 
 - [x] Users are see a screen with a second button
-[x] Tapping the button changes the text color to a random color
+- [x] Tapping the button changes the text color to a random color
 - [x] Labels and background have custom changes in color and font when app is initialized
  
 ## Video Walkthrough
